@@ -1,0 +1,11 @@
+C:\Users\Arcadia\source\repos\SpaceBorn\SpaceBorn\bin\Debug\netcoreapp2.1\SpaceBorn.deps.json
+C:\Users\Arcadia\source\repos\SpaceBorn\SpaceBorn\bin\Debug\netcoreapp2.1\SpaceBorn.runtimeconfig.json
+C:\Users\Arcadia\source\repos\SpaceBorn\SpaceBorn\bin\Debug\netcoreapp2.1\SpaceBorn.runtimeconfig.dev.json
+C:\Users\Arcadia\source\repos\SpaceBorn\SpaceBorn\bin\Debug\netcoreapp2.1\SpaceBorn.dll
+C:\Users\Arcadia\source\repos\SpaceBorn\SpaceBorn\bin\Debug\netcoreapp2.1\SpaceBorn.pdb
+C:\Users\Arcadia\source\repos\SpaceBorn\SpaceBorn\obj\Debug\netcoreapp2.1\SpaceBorn.csprojAssemblyReference.cache
+C:\Users\Arcadia\source\repos\SpaceBorn\SpaceBorn\obj\Debug\netcoreapp2.1\SpaceBorn.csproj.CoreCompileInputs.cache
+C:\Users\Arcadia\source\repos\SpaceBorn\SpaceBorn\obj\Debug\netcoreapp2.1\SpaceBorn.AssemblyInfoInputs.cache
+C:\Users\Arcadia\source\repos\SpaceBorn\SpaceBorn\obj\Debug\netcoreapp2.1\SpaceBorn.AssemblyInfo.cs
+C:\Users\Arcadia\source\repos\SpaceBorn\SpaceBorn\obj\Debug\netcoreapp2.1\SpaceBorn.dll
+C:\Users\Arcadia\source\repos\SpaceBorn\SpaceBorn\obj\Debug\netcoreapp2.1\SpaceBorn.pdb
